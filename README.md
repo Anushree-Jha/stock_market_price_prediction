@@ -32,7 +32,7 @@ pip install pandas numpy scikit-learn matplotlib
 ## Usage
 1. Clone the repository:
    bash
-   git clone https://github.com/yourusername/stock-prediction-project.git
+   git clone https://github.com/Anushree-Jha/stock_market_price_prediction.git
    cd stock-prediction-project
    
 
